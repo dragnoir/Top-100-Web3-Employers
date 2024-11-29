@@ -341,3 +341,114 @@ A comprehensive directory of leading companies in the Web3 ecosystem. This list 
 
 82. **Sky** | [Website](https://sky.money/)
     - Non-custodial gateway
+
+82. **Sky (formerly MakerDAO)** | [Website](https://sky.money/)
+   - Non-custodial gateway to Sky Protocol
+   - Creator of Dai, world's first unbiased decentralized stablecoin
+   - Enables stablecoin generation and management
+
+83. **NEAR Foundation** | [Website](https://near.foundation/)
+   - Non-profit supporting NEAR blockchain development
+   - Focus on developer-friendly platform
+   - Prioritizes scalability and usability
+
+84. **Rainbow Wallet** | [Website](https://rainbow.me/)
+   - Fun and secure Ethereum wallet
+   - NFT collection and Web3 exploration platform
+   - Simple user interface for crypto management
+
+85. **Mangrove** | [Website](https://mangrove.exchange/)
+   - Order book-based DEX
+   - Enables smart contract-based liquidity provision
+   - Innovative approach to shared liquidity
+
+86. **Nexus Mutual** | [Website](https://nexusmutual.io/)
+   - Leading onchain insurance alternative
+   - Provides protection against crypto risks
+   - Community-driven coverage platform
+
+87. **EthGlobal** | [Website](https://ethglobal.com/)
+   - Hosts hackathons and events
+   - Fosters Ethereum developer community
+   - Drives blockchain innovation
+
+88. **BitGo** | [Website](https://www.bitgo.com/)
+   - Institutional-grade digital asset services
+   - Secure custody and trading solutions
+   - Manages billions in client assets
+
+89. **Mysten Labs** | [Website](https://mystenlabs.com/)
+   - Blockchain infrastructure company
+   - Developing Sui blockchain
+   - Focus on scalability and low latency
+
+90. **IOTA Foundation** | [Website](https://www.iota.org/)
+   - Develops IOTA protocol
+   - Specialized in Internet of Things solutions
+   - Distributed ledger technology innovation
+
+91. **Radix DLT** | [Website](https://www.radixdlt.com/)
+   - Layer-1 protocol
+   - Focus on improved user and developer experiences
+   - Building Web3 & DeFi solutions
+
+92. **Magic Eden** | [Website](https://magiceden.io/)
+   - Leading community-centric NFT marketplace
+   - Platform for next-generation creators
+   - Comprehensive NFT trading solution
+
+93. **Render Network** | [Website](https://render.x.io/)
+   - Decentralized GPU rendering platform
+   - Supercharges creative workflows
+   - Distributed computing solution
+
+94. **Zama** | [Website](https://www.zama.ai/)
+   - Open source cryptography company
+   - Develops Fully Homomorphic Encryption (FHE)
+   - Blockchain and AI security solutions
+
+95. **Sweateconomy** | [Website](https://sweateconomy.com)
+   - Web3 fitness ecosystem
+   - Tokenized physical activity through $SWEAT
+   - Top 5 dApp with 14M+ users
+
+96. **Osmosis** | [Website](https://osmosis.zone/)
+   - Community-created DEX
+   - Serves Cosmos ecosystem
+   - Multi-chain DeFi platform
+
+97. **SushiSwap** | [Website](https://www.sushi.com/)
+   - Automated market maker (AMM)
+   - Decentralized exchange platform
+   - Direct asset trading protocol
+
+98. **Casper Network** | [Website](https://casper.network/en-us/)
+   - Smart-contracting platform
+   - Proof-of-Stake consensus
+   - WebAssembly-based blockchain
+
+99. **Pyth Network** | [Website](https://pyth.network/)
+   - Decentralized oracle solution
+   - Real-time financial market data
+   - Smart contract data provider
+
+100. **Telos Foundation** | [Website](https://www.telos.net/)
+     - Supports Telos blockchain
+     - High-performance network
+     - Focus on dApps and governance
+
+## Contributing
+
+This list is maintained by the community. To contribute:
+1. Fork the repository
+2. Add or update company information
+3. Submit a pull request with detailed changes
+4. Include sources for any new information
+
+## Updates
+
+Last updated: November 2024
+
+## License
+
+This documentation is provided for informational purposes only. All company names, logos, and trademarks belong to their respective owners.
